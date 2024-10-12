@@ -1,6 +1,6 @@
 # [Blazium Engine](https://blazium.app/)
 
-## Fork of Godot Engine
+## A fork of [Godot Engine](https://godotengine.org)
 
 The idea behind Blazium Engine is to provide quality of life improvements, optimizations, additional tooling, and other enhancements. Changes will be driven by the community, not by corporate funding. The surrounding community aims to provide a place where developers can get support, make suggestions, and interact without feeling as if they are walking on eggshells.
 
