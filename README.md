@@ -1,1 +1,1 @@
-This Repo is for our Organizations Profile page.
+The [Blazium](https://blazium.app) Github organization profile page repo.
