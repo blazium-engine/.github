@@ -1,5 +1,15 @@
 # [Blazium Engine](https://blazium.app/)
 
+## Goals
+
+The goals of the Blazium Engine are the follwing:
+
+1. **0$/No donations**
+2. **Merging** high priority PR's from Godot that go unaddressed for actual years.
+3. **Services** needed to make games, such as lobby service, leaderboards service, etc.
+4. **Platform** integration modules to help integrate and deploy your game with discord, steam, etc.
+5. **Console** integration modules to help ship on switch, xbox, etc.
+
 ## A fork of [Godot Engine](https://godotengine.org)
 
 The idea behind Blazium Engine is to provide quality of life improvements, optimizations, additional tooling, and other enhancements. Changes will be driven by the community, not by corporate funding. The surrounding community aims to provide a place where developers can get support, make suggestions, and interact without feeling as if they are walking on eggshells.
