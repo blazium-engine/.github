@@ -2,7 +2,7 @@
 
 ## Goals
 
-The goals of the Blazium Engine are the follwing:
+The goals of the Blazium Engine are the following:
 
 1. **0$/No donations**
 2. **Merging** high priority PR's from Godot that go unaddressed for actual years.
