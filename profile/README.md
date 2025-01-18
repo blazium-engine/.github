@@ -1,14 +1,15 @@
 # [Blazium Engine](https://blazium.app/)
 
-## Goals
+## Overarching Goals
 
 The goals of the Blazium Engine are the following:
 
 1. **0$/No donations**
 2. **Merging** high priority PR's from Godot that go unaddressed for actual years.
-3. **Services** needed to make games, such as lobby service, leaderboards service, etc.
-4. **Platform** integration modules to help integrate and deploy your game with discord, steam, etc.
-5. **Console** integration modules to help ship on switch, xbox, etc.
+3. **Services** needed to make games such as lobbies, leaderboards, and more.
+4. **Platform** integration modules to help integrate and deploy games with Discord, Steam, etc.
+5. **Console** integration modules to help ship on Switch, Xbox, and more.
+6. **Maintain** GDExtension compat for full project portability when going from Godot to Blazium.
 
 ## A fork of [Godot Engine](https://godotengine.org)
 
@@ -18,7 +19,7 @@ One of the main issues with the Godot project is that, while it started as a com
 
 The Blazium project aims to address this with a transparent, open process for improving the engine. While our community is still new, we have a plan. Trust should be built through actions, with authority placed in those that have skin in the game and contribute to the project.
 
-While there are many things to improve, of particular interest is networking, 2D/3D functionality, scripting language capabilities, and MR/AR/XR/VR feature sets. Greater control over the TCP/UDP stack and packets would allow more complex multiplayer without developers needing to implement their own networking system. Improving GDScript will expose functionality that is otherwise inaccessible, while also bringing frequently requested features such as structs and interfaces. C# can be improved with things such as export support on interfaces, and engine interop optimizations.
+While there are many things to improve, of particular interest is networking, 2D/3D functionality, scripting language capabilities, and XR feature sets. Greater control over the TCP/UDP stack and packets would allow more complex multiplayer without developers needing to implement their own networking system. Improving GDScript will expose functionality that is otherwise inaccessible, while also bringing frequently requested features such as structs and interfaces. C# can be improved with things such as export support on interfaces, and engine interop optimizations.
 
 Thank you for your time,
 Blazium Engine Contributors
