@@ -1,5 +1,7 @@
 # [Blazium Engine](https://blazium.app/)
 
+![](https://raw.githubusercontent.com/blazium-engine/blazium-assets/refs/heads/main/Blazium%20Engine%20-%20Brand%20Kit/Logo%20%26%20Wordmark%20(horizontal)/PNG/Blazium_Logo_Black_Outline.png)
+
 Blazium is a fork of the [Godot Engine](https://godotengine.org), a free and open-source
 game engine designed for both 2D and 3D applications.
 
