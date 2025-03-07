@@ -5,29 +5,22 @@
 Blazium is a fork of the [Godot Engine](https://godotengine.org), a free and open-source
 game engine designed for both 2D and 3D applications.
 
-Blazium aims to remain free, open-source, and easy to use while introducing quality-of-life
-improvements, optimizations, additional tools, and other enhancements missing from Godot.
-These changes will be driven by the community rather than corporate funding.
-The surrounding community aims to create a space where developers can receive support,
-share suggestions, and interact freely without feeling as though they are walking on eggshells.
-
-### Overarching Goals of the Project
+### Goals of the Project
 - **No Donations Policy:** Operate without accepting any form of donations.
-- **Timely Resolution of Priority PRs:** Address high-priority pull requests from Godot that have been left unaddressed for extended periods.
-- **Game Development Services:** Provide essential services for game development, such as lobbies, leaderboards, and more.
-- **Platform Integration Modules:** Develop modules to integrate and deploy games on platforms like Discord, Steam, and others.
-- **Console Integration Modules:** Create modules to support shipping games on consoles such as Nintendo Switch, Xbox, and more.
-- **GDExtension Compatibility:** Ensure full portability of projects when transitioning from Godot to Blazium by maintaining GDExtension compatibility.
+- **Merging Priority PRs:** Address high-priority pull requests from Godot that have been left unaddressed for extended periods.
+- **Game Services:** Provide essential services for game development, such as lobbies, leaderboards, and more.
+- **Game Development:** Implement games to test engine and services functionality.
+- **Platform Integration:** Develop modules to integrate and deploy games on platforms like Discord, Steam, and others.
+- **Console Integration:** Create modules to support shipping games on consoles such as Nintendo Switch, Xbox, and more.
+- **Backwards Compatibility:** Ensure full portability of projects when transitioning from Godot to Blazium by maintaining GDExtension compatibility.
 
-### A fork of the [Godot Engine](https://godotengine.org)
+### Testing by Developing Games
 
-One of the main issues with the Godot project is that, while it started as a community-driven initiative, its top-down organizational
-structure has sidelined community contributions, leading many developers to feel pushed away. Despite this, the continued interest from the
-community is evident in the large number of open pull requests and unresolved issues.
+We chose the path of developing games in order to test the engine and the services integration. Our approach is that if we make something, it will most likely be something we need or the community needs. So far with our first game, Hangman, we needed a Lobby Service, deployment to Discord, and more.
 
-Blazium seeks to address these issues with a transparent, open process for improving the engine.
-While our community is still in its early stages, we are committed to building trust through actions.
-Authority within the project will be earned by those who actively contribute and have a vested interest in its success.
+### Tools and Services
+
+One important part of Blazium is something that isn't even in the Engine. The tools and services with which we develop multiplayer games and deploy them to different platforms. Whether it's to just validate a use case, or create completely new functionality, we will do it in order to make our games a reality. From turn based board games to realtime games, we will do it all.
 
 ## Where to Go From Here
 
