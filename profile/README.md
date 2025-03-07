@@ -16,11 +16,15 @@ game engine designed for both 2D and 3D applications.
 
 ### Testing by Developing Games
 
-We chose the path of developing games in order to test the engine and the services integration. Our approach is that if we make something, it will most likely be something we need or the community needs. So far with our first game, Hangman, we needed a Lobby Service, deployment to Discord, and more.
+Developing games is an excellent way to test and validate an engine, tooling, and integration with services.
+We fix any issues we encounter and add features that are missing, making the experience for developers and users alike better.
+With Hangman, our first small game, we added Discord export support, created a lobby service and its engine integration, and fixed a compatibility issue with Safari on iOS among many other things.
 
 ### Tools and Services
 
-One important part of Blazium is something that isn't even in the Engine. The tools and services with which we develop multiplayer games and deploy them to different platforms. Whether it's to just validate a use case, or create completely new functionality, we will do it in order to make our games a reality. From turn based board games to realtime games, we will do it all.
+An important aspect of Blazium is the tools and services we are developing for our multiplayer games.
+As we develop more multiplayer games, the types of services we offer, and their capabilities, become more significant.
+From turn based to real-time, we intend to support it all.
 
 ## Where to Go From Here
 
