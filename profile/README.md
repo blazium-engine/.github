@@ -26,6 +26,22 @@ An important aspect of Blazium is the tools and services we are developing for o
 As we develop more multiplayer games, the types of services we offer, and their capabilities, become more significant.
 From turn based to real-time, we intend to support it all.
 
+### Vision
+
+Blazium aims to remain free, open-source, and easy to use while introducing quality-of-life
+improvements, optimizations, additional tools, and other enhancements missing from Godot.
+These changes will be driven by the community rather than corporate funding.
+The surrounding community aims to create a space where developers can receive support,
+share suggestions, and interact freely without feeling as though they are walking on eggshells.
+
+One of the main issues with the Godot project is that, while it started as a community-driven initiative, its top-down organizational
+structure has sidelined community contributions, leading many developers to feel pushed away. Despite this, the continued interest from the
+community is evident in the large number of open pull requests and unresolved issues.
+
+Blazium seeks to address these issues with a transparent, open process for improving the engine.
+While our community is still in its early stages, we are committed to building trust through actions.
+Authority within the project will be earned by those who actively contribute and have a vested interest in its success.
+
 ## Where to Go From Here
 
 - Use the [Web Editor](https://editor-nightly.blazium.app) to try the engine in your browser.
